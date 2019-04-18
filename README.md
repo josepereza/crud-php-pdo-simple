@@ -1,3 +1,7 @@
+![Alt text](crud-php-pdo-simple.png)
+![Alt text](crud-php-pdo-simple2.png)
+
+
 Simple PHP-MySQL CRUD (Add, Edit, Delete, View) using PDO
 ========
 
